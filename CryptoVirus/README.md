@@ -28,7 +28,7 @@ With this information we can assume that the encryption process is the same for 
 
 ### Attack explanation
 
-Assuming the scheme uses a form of XOR based cipher (either directly or through the block mode of operation), as, for exemple, AES using the counter (CTR) block cipher mode of operation:
+Assuming the scheme uses a form of XOR based cipher (either directly or through the block mode of operation), as, for exemple, any block cypher (e.g. AES) using the counter (CTR) block cipher mode of operation:
 
 ![Diagram explaning the counter (CTR) block cipher mode of operation](_assets/ctr.png)
 
