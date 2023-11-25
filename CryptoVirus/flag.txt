@@ -1,0 +1,1 @@
+MALICE{flag_Crypt0Virus-Is_Weak!}
